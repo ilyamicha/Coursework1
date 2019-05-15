@@ -1,0 +1,13 @@
+3
+Russia
+Moscow
+5
+200
+Spain
+Madrid
+5
+150
+France
+Paris
+3
+100
